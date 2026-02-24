@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "Riwan",
+  "stats": {
+    "totalGames": 0,
+    "lastScore": 0,
+    "bestScore": 0,
+    "averageScore": 0.0,
+    "lastTime": 0.0,
+    "bestTime": 0.0,
+    "unlockedRewards": [],
+    "totalChallengesCompleted": 0,
+    "id": 0
+  }
+}
